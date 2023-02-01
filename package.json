@@ -36,7 +36,7 @@
     },
     "dependencies": {
         "@babel/runtime": "^7.4.5",
-        "vtk.js": "^8.13.0"
+        "vtk.js": "^26.3.2"
     },
     "devDependencies": {
         "@babel/core": "^7.4.5",
